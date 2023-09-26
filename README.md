@@ -56,4 +56,12 @@ The Zoo Management System is designed to help manage and organize a zoo's operat
 
 <img width="568" alt="print" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/d5d6b3c4-d8d6-4cd2-b387-07b696faa845">
 
+## Copyright
+
+© 2023 Dudi Ohayon
+
+This project and its contents are protected under the laws of copyright. Any unauthorized use, modification, or distribution is prohibited.
+
+
+
 
