@@ -51,11 +51,15 @@ The Zoo Management System is designed to help manage and organize a zoo's operat
 <img width="567" alt="main" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/59b20fe3-6979-4e24-b3ad-81d6fb9a1672">
 
 
-<img width="568" alt="Screenshot 2023-09-26 154624" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/c6d9ecd0-1688-486f-99cb-f52c770073d1">
+<img width="568" alt="Screenshot 2023-09-26 154624" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/ae17b91d-ade5-4cc4-8bc8-ba1a79a71ab7">
 
-<img width="568" alt="Screenshot 2023-09-26 154515" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/652d690c-014a-485f-9619-1555d6f221ec">
 
-<img width="568" alt="print" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/d5d6b3c4-d8d6-4cd2-b387-07b696faa845">
+<img width="568" alt="Screenshot 2023-09-26 154515" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/5e2541c3-939b-4de9-b718-bb0bdd62df2d">
+
+
+<img width="568" alt="print" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/6b50e17f-2215-4d41-8a58-3142f3e72078">
+
+
 
 ## Copyright
 
