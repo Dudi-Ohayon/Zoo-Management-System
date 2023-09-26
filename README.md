@@ -37,6 +37,8 @@ The Zoo Management System is designed to help manage and organize a zoo's operat
 
 ## Screenshots
 
+- The screenshots provided in this README predominantly showcase the lion section of the Zoo Management System. While the application encompasses a broader range of animals, such as elephants and sharks, the focus on lion screenshots is for illustrative purposes. The lion section is highlighted to demonstrate a representative view of the animal management interface. The application's functionality extends to managing other animals like elephants and sharks in a similar manner. For a comprehensive understanding of the system's capabilities, I recommend exploring the application directly.
+
 <img width="567" alt="main" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/1e0d6732-cc6c-42f4-ae82-21e8b4cebd28">
 
 <img width="568" alt="Screenshot 2023-09-26 154624" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/c6d9ecd0-1688-486f-99cb-f52c770073d1">
