@@ -13,12 +13,15 @@ The Zoo Management System is a project developed in C# utilizing WinForms, focus
 
 ## Introduction
 
-The Zoo Management System is designed to help manage and organize a zoo's operations. It allows users to keep track of animals and their specific details. The system is built with a focus on object-oriented programming principles to ensure maintainability, extensibility, and efficient development.
+The Zoo Management System is designed to help manage and organize a zoo's operations. It allows zoo keepers to keep track of animals and their specific details. The system is built with a focus on object-oriented programming principles to ensure maintainability, extensibility, and efficient development.
 
 ## Features
 
 - **Animal Management:**
   - Add new animals to the database (e.g., lion, shark, elephant).
+   <img width="567" alt="main" src="https://github.com/Dudi-Ohayon/Zoo-Management-System/assets/77026065/adafdcbc-92b8-4ee1-a2fe-67ed737e9736">
+
+
   - Remove animals from the database.
   - Print a list of current animals.
 
