@@ -17,6 +17,11 @@ The Zoo Management System is designed to help manage and organize a zoo's operat
 
 ## Features
 
+- **Dashboard Feature:**
+The main form includes a dashboard display, providing a quick overview of the zoo's operations.
+One notable feature is the total count of all animals in the zoo, conveniently visible on the main form.
+This dashboard functionality enhances accessibility and allows zoo keepers to monitor the zoo's animal population effortlessly.
+
 - **Animal Management:**
   - Add new animals to the database (e.g., lion, shark, elephant).
   - Remove animals from the database.
