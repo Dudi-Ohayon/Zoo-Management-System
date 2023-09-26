@@ -8,7 +8,7 @@ This system provides a platform for managing various aspects of a zoo, including
 - [Features](#features)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
-- [License](#license)
+- [Copyright](#copyright)
 
 ## Introduction
 
@@ -58,7 +58,7 @@ The Zoo Management System is designed to help manage and organize a zoo's operat
 
 ## Copyright
 
-© 2023 Dudi Ohayon
+© 2023 
 
 This project and its contents are protected under the laws of copyright. Any unauthorized use, modification, or distribution is prohibited.
 
